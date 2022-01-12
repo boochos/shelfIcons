@@ -9,7 +9,7 @@
    id="svg5"
    inkscape:version="1.1 (c68e22c387, 2021-05-23)"
    sodipodi:docname="maya_icons.svg"
-   inkscape:export-filename="C:\Users\sebas\Documents\maya\2020\prefs\icons\frustum.png"
+   inkscape:export-filename="C:\Users\sebas\Documents\maya\2020\prefs\icons\_blue.png"
    inkscape:export-xdpi="96"
    inkscape:export-ydpi="96"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
@@ -39,7 +39,7 @@
      inkscape:window-x="-8"
      inkscape:window-y="-8"
      inkscape:window-maximized="1"
-     inkscape:current-layer="g18184"
+     inkscape:current-layer="layer8"
      objecttolerance="20">
     <sodipodi:guide
        position="-15.591431,23.428511"
@@ -82,6 +82,24 @@
   </sodipodi:namedview>
   <defs
      id="defs2">
+    <inkscape:path-effect
+       effect="powerclip"
+       id="path-effect10862"
+       is_visible="true"
+       lpeversion="1"
+       inverse="true"
+       flatten="false"
+       hide_clip="false"
+       message="Use fill-rule evenodd on &lt;b&gt;fill and stroke&lt;/b&gt; dialog if no flatten result after convert clip to paths." />
+    <inkscape:path-effect
+       effect="powerclip"
+       id="path-effect10719"
+       is_visible="true"
+       lpeversion="1"
+       inverse="true"
+       flatten="false"
+       hide_clip="false"
+       message="Use fill-rule evenodd on &lt;b&gt;fill and stroke&lt;/b&gt; dialog if no flatten result after convert clip to paths." />
     <inkscape:path-effect
        effect="powermask"
        id="path-effect6442"
@@ -1951,6 +1969,24 @@
        y1="9.1348677"
        x2="6.2692976"
        y2="13.96908" />
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath10857">
+      <path
+         style="display:none;opacity:1;fill:#ffffff;fill-opacity:1;stroke-width:4;stroke-linecap:round;stroke-miterlimit:4;stroke-dasharray:none"
+         id="path10859"
+         sodipodi:type="rect"
+         width="6.625525"
+         height="0.53968048"
+         x="5.2916675"
+         y="14.2875"
+         d="m 5.2916675,14.2875 h 6.6255245 v 0.539681 H 5.2916675 Z" />
+      <path
+         id="lpe_path-effect10862"
+         style="display:block;opacity:1;fill:#ffffff;fill-opacity:1;stroke-width:4;stroke-linecap:round;stroke-miterlimit:4;stroke-dasharray:none"
+         class="powerclip"
+         d="M -1.03125,7.9645834 H 18.229167 V 21.139584 H -1.03125 Z M 5.2916675,14.2875 v 0.539681 H 11.917192 V 14.2875 Z" />
+    </clipPath>
   </defs>
   <g
      inkscape:groupmode="layer"
@@ -2003,7 +2039,7 @@
        inkscape:label="bg_rect_red"
        ry="0.52916682" />
     <rect
-       style="display:none;opacity:1;fill:#3869b8;fill-opacity:1;stroke:none;stroke-width:2;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;paint-order:stroke fill markers"
+       style="display:inline;opacity:1;fill:#3869b8;fill-opacity:1;stroke:none;stroke-width:2;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;paint-order:stroke fill markers"
        id="rect4818"
        width="16.933334"
        height="16.933332"
@@ -2030,7 +2066,7 @@
        inkscape:label="bg_rect_purple"
        ry="0.52916682" />
     <rect
-       style="display:inline;opacity:1;fill:#7f7f7f;fill-opacity:1;stroke:none;stroke-width:2;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;paint-order:stroke fill markers"
+       style="display:none;opacity:1;fill:#7f7f7f;fill-opacity:1;stroke:none;stroke-width:2;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;paint-order:stroke fill markers"
        id="rect9800"
        width="16.933334"
        height="16.933332"
@@ -2323,7 +2359,7 @@
     <g
        id="g18184"
        inkscape:label="frustum"
-       style="display:inline;mix-blend-mode:overlay;stroke:#ffffff;stroke-width:0.79375;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       style="display:none;mix-blend-mode:overlay;stroke:#ffffff;stroke-width:0.79375;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
        transform="translate(-0.52916672,0.26458334)">
       <g
          id="g8804"
@@ -2386,7 +2422,7 @@
            rx="0.10055939" />
       </g>
       <rect
-         style="display:inline;opacity:1;fill:none;fill-opacity:1;stroke:#ffffff;stroke-width:1.05833334;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;paint-order:normal"
+         style="display:inline;opacity:1;fill:none;fill-opacity:1;stroke:#ffffff;stroke-width:1.05833;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;paint-order:normal"
          id="rect16711"
          width="10.318751"
          height="6.3499994"
@@ -2673,7 +2709,7 @@
          d="m 13.028172,16.325171 a 4.0005441,1.4019142 0 0 1 -3.9909704,1.40191 4.0005441,1.4019142 0 0 1 -4.0100719,-1.395201 4.0005441,1.4019142 0 0 1 3.9717774,-1.408588 4.0005441,1.4019142 0 0 1 4.0290819,1.388459 l -4.0003611,0.01342 z"
          clip-path="url(#clipPath48578)" />
       <path
-         style="display:none;opacity:1;mix-blend-mode:normal;fill:#ffffff;fill-opacity:0.992727;stroke:none;stroke-width:2;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;paint-order:stroke fill markers;filter:url(#filter3117)"
+         style="display:inline;opacity:1;mix-blend-mode:normal;fill:#ffffff;fill-opacity:0.992727;stroke:none;stroke-width:2;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;paint-order:stroke fill markers;filter:url(#filter3117)"
          id="path2608"
          inkscape:label="glow_white"
          sodipodi:type="arc"
@@ -2860,7 +2896,7 @@
        sodipodi:nodetypes="ccccc"
        inkscape:label="spec" />
     <path
-       style="display:none;opacity:0.645161;mix-blend-mode:normal;fill:url(#linearGradient22978);fill-opacity:1;stroke:none;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;paint-order:stroke fill markers"
+       style="display:inline;opacity:0.645161;mix-blend-mode:normal;fill:url(#linearGradient22978);fill-opacity:1;stroke:none;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;paint-order:stroke fill markers"
        d="M 0.52916668,4.2333335 C 0.52916667,9.2604168 14.552083,11.90625 16.404166,11.906251 V 0.52916668 H 0.52916668 Z"
        id="path6584"
        sodipodi:nodetypes="ccccc"
@@ -3835,9 +3871,9 @@
            style="opacity:1;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.529167;stroke-linecap:round;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;paint-order:normal"
            id="rect20619"
            width="9.260417"
-           height="2.9104166"
+           height="3.1750002"
            x="3.96875"
-           y="13.229167"
+           y="12.964583"
            inkscape:label="printer_base"
            inkscape:export-filename="C:\Users\sebas\Documents\maya\2020\prefs\icons\rect20619.png"
            inkscape:export-xdpi="96"
@@ -3845,7 +3881,9 @@
            ry="0"
            rx="0"
            sodipodi:type="rect"
-           d="m 3.96875,13.229167 h 9.260417 v 2.910417 H 3.96875 Z" />
+           d="m 3.96875,12.964583 h 9.260417 v 3.175001 H 3.96875 Z"
+           clip-path="url(#clipPath10857)"
+           inkscape:path-effect="#path-effect10862" />
         <path
            style="fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.529167;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;paint-order:normal"
            id="rect20980"
@@ -4106,7 +4144,7 @@
          rotate="0 0 0 0">GDS</tspan></text>
     <text
        xml:space="preserve"
-       style="font-style:normal;font-variant:normal;font-weight:900;font-stretch:normal;font-size:5.64444px;line-height:1.25;font-family:Arial;-inkscape-font-specification:'Arial, Heavy';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;letter-spacing:0px;word-spacing:0px;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.396875;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:0.988235;paint-order:stroke fill markers"
+       style="font-style:normal;font-variant:normal;font-weight:900;font-stretch:normal;font-size:5.64444px;line-height:1.25;font-family:Arial;-inkscape-font-specification:'Arial, Heavy';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;letter-spacing:0px;word-spacing:0px;display:none;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.396875;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:0.988235;paint-order:stroke fill markers"
        x="1.6947045"
        y="5.5742102"
        id="text4022"
@@ -4114,8 +4152,8 @@
          sodipodi:role="line"
          id="tspan4020"
          style="font-style:normal;font-variant:normal;font-weight:900;font-stretch:normal;font-size:5.64444px;font-family:Arial;-inkscape-font-specification:'Arial, Heavy';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;stroke:none;stroke-width:0.396875;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:0.988235;paint-order:stroke fill markers"
-         x="1.6947045"
-         y="5.5742102"
+         x="0"
+         y="0"
          rotate="0 0 0 0">FTM</tspan></text>
     <text
        xml:space="preserve"
@@ -4218,8 +4256,8 @@
          sodipodi:role="line"
          id="tspan53359"
          style="font-style:normal;font-variant:normal;font-weight:900;font-stretch:normal;font-size:5.64444px;font-family:Arial;-inkscape-font-specification:'Arial, Heavy';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;stroke:none;stroke-width:0.396875;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:0.988235;paint-order:stroke fill markers"
-         x="0"
-         y="0"
+         x="2.2238712"
+         y="5.5742102"
          rotate="0 0 0 0">SEL</tspan></text>
     <text
        xml:space="preserve"
